@@ -23,4 +23,14 @@ forked the repository, navigate to the CircleCI web interface, choose
 
 Try pushing some changes to your repo to see how a JS job runs, and
 then it will install the dependecies and android sdk get run concurrently. Once it is done, it will generate an apk to download from the artifacts. 
+For more information https://circleci.com/docs/
+
+![addprojects](https://github.com/nbadiganti/circileci-ionic/blob/master/circleci-build-screenshots/adding-projects-tocircleci.png?style=png)
+
+![buildsuccess](https://github.com/nbadiganti/circileci-ionic/blob/master/circleci-build-screenshots/build-process.png?style=png)
+
+![artifactbuild](https://github.com/nbadiganti/circileci-ionic/blob/master/circleci-build-screenshots/Artifact-build.png?style=png)
+
+
+
 

@@ -32,5 +32,6 @@ For more information https://circleci.com/docs/
 ![artifactbuild](https://github.com/nbadiganti/circileci-ionic/blob/master/circleci-build-screenshots/Artifact-build.png?style=png)
 
 
+For more detail, https://www.driftycode.com/continuous-integration-for-ionic-apps/
 
 
